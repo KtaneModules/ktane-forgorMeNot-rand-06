@@ -1,0 +1,10 @@
+{
+  "name": "MemoryV3-Editor",
+  "references": [
+    "MemoryV3"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

@@ -1,0 +1,1 @@
+﻿using UnityEngine;public class ugh:MonoBehaviour{public KMSelectable b;void Start(){b.OnInteract+=delegate{GetComponent<KMBombModule>().HandlePass();return false;};}}
